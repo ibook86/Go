@@ -3,6 +3,8 @@
 
 https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/SUMMARY.md
 
+https://www.bilibili.com/video/BV12r4y1w7Vr
+
 ## 说明
 
 `GinHello`目录为`Gin`框架；
